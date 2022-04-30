@@ -1313,6 +1313,7 @@ class MyApp extends StatelessWidget {
             color: AppColors.baseBlackColor
           ),
         ),
+        lmlknnkbhvg
         primarySwatch: Colors.blue,
       ),
       home: MyBottomBar(),
